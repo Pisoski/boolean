@@ -1,0 +1,78 @@
+
+
+body{
+
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+
+}
+
+
+
+.boxBack{
+
+  background: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+
+}
+
+p{
+
+  color: white;
+  font-family: monospace;
+  font-size: 15px;
+
+}
+
+.logoImg{
+  margin: auto;
+  width: 160px;
+  height: 80px;
+}
+
+
+
+.boxVerde{
+
+  text-align: center;
+
+  background-color: #7CFC00 ;
+}
+
+.paragreen{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  opacity: 1;
+  color: #7CFC00;
+}
+.barraRosso{
+
+  margin-top: 0px;
+  border-radius: 5px;
+  background-color: red;
+  width: 100px;
+  color: red;
+}
+.barraVerde{
+
+  margin-top: 0px;
+  border-radius: 5px;
+  background-color: green;
+  width: 370px;
+  color: green;
+}
+.barraArancio{
+
+  margin-top: 0px;
+  border-radius: 5px;
+  background-color: orange;
+  width: 200px;
+  color: orange;
+}
